@@ -1,2 +1,2 @@
 # hackerthon-problems
-Đăng các bài tập problems lên đây nhé
+Chia sẻ các tài liệu học của hackerthon cho cộng đồng
