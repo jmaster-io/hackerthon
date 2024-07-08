@@ -1,5 +1,7 @@
-m = int(input("Nhập số nguyên m: "))
-n = int(input("Nhập số nguyên n: "))
-p = int(input("Nhập số nguyên p: "))
+ # gán x = 10 và y = 7
+x, y = 10, 7
+print(x, y)
 
-print("Tổng ba số đã nhập là: ", m + n + p)
+#hoán đổi giá trị cho nhau
+x, y = y , x
+print(x, y)

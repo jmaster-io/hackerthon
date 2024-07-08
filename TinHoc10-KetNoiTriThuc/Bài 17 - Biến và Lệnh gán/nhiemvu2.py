@@ -1,5 +1,4 @@
-m = int(input("Nhập số nguyên m: "))
-n = int(input("Nhập số nguyên n: "))
-p = int(input("Nhập số nguyên p: "))
-
-print("Tổng ba số đã nhập là: ", m + n + p)
+R = 4.5
+pi = 3.14
+print("Chu vi hình tròn là:", 2 * R * pi)
+print("Diện tích hình tròn là:", pi * R * R)

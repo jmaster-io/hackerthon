@@ -1,0 +1,13 @@
+print("1 x 1 =", 1 * 1)
+print("1 x 2 =", 1 * 2)
+print("1 x 3 =", 1 * 3)
+print("1 x 4 =", 1 * 4)
+print("1 x 5 =", 1 * 5)
+print("1 x 6 =", 1 * 6)
+print("1 x 7 =", 1 * 7)
+print("1 x 8 =", 1 * 8)
+print("1 x 9 =", 1 * 9)
+# Tiếp tục nhân 2,3,4................
+print("2 x 1 =", 2 * 1)
+print("2 x 2 =", 2 * 2)
+print("2 x 3 =", 2 * 3)

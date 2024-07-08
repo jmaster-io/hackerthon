@@ -1,5 +1,13 @@
-m = int(input("Nhập số nguyên m: "))
-n = int(input("Nhập số nguyên n: "))
-p = int(input("Nhập số nguyên p: "))
+#a
+print(( 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10) ** 3)
 
-print("Tổng ba số đã nhập là: ", m + n + p)
+#b
+print(( 1/2 + 1/3 + 1/4 + 1/5))
+
+#c
+x, y = 2,5
+print( (x + y) * (x** 2  + y**2 -1) )
+
+#d
+a,b,c  = 2,3,4
+print( (a + b + c) * (a + b -c) )
